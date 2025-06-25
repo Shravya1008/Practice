@@ -1,7 +1,3 @@
-Here is a suitable `README.md` description for your **Linux Commands** GitHub repository project, based on the provided image (`LINUX COMMANDS.png`) and Word document (`Command Prompt.docx`):
-
----
-
 # 🖥️ Linux Commands Reference Guide
 
 This project is a quick-reference documentation of essential Linux commands, including folder and file operations, system process viewing, network diagnostics, and hardware/module checks. Useful for beginners and as a revision guide for Linux labs.
